@@ -5,4 +5,4 @@ This Repository Contain 2 Usefull files.
 2. Advance_QR.py
 
 Both Got Their Own Perks If You Are In Hurry Use SImple One Only Replace Link in the File.
-Got Some Time Play With Advance Features. $$$
+Got Some Time, then Play With Advance Features. $$$
